@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="leave_assignment" label="Leave Assignment" language="en" table="x_447134_lms_leave_calculator">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>leave_assignment</element>
+            <help/>
+            <hint/>
+            <label>Leave Assignment</label>
+            <language>en</language>
+            <name>x_447134_lms_leave_calculator</name>
+            <plural>Leave Assignments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-12 14:50:51</sys_created_on>
+            <sys_id>7356ff5907d22010bf0af2508c1ed04c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Leave Assignment</sys_name>
+            <sys_package display_value="Leave Management Application" source="x_447134_lms">d65e621507122010bf0af2508c1ed077</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management Application">d65e621507122010bf0af2508c1ed077</sys_scope>
+            <sys_update_name>sys_documentation_x_447134_lms_leave_calculator_leave_assignment_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-12 14:50:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
